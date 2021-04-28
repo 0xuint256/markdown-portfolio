@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Steve Jobs
+* A.J Hoge
+* Tim Cook
